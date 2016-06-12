@@ -5,6 +5,8 @@
   "main": "beam.js",
   "dependencies": {
     "d3": "^3.5.17",
+    "jasmine": "^2.4.1",
+    "require": "^2.4.20",
     "karma": "^0.13.22",
     "mathjs": "^3.2.1"
   },

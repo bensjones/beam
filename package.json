@@ -8,6 +8,7 @@
     "jasmine": "^2.4.1",
     "karma": "^0.13.22",
     "mathjs": "^3.2.1",
+    "phantomjs": "^2.1.7",
     "require": "^2.4.20",
     "requirejs": "^2.2.0"
   },

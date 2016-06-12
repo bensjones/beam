@@ -19,7 +19,7 @@
     "karma-requirejs": "^1.0.0"
   },
   "scripts": {
-    "test": "karma"
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
   },
   "repository": {
     "type": "git",
